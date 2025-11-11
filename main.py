@@ -41,13 +41,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# is_finished = True
-# while is_finished:
-#     message = input("Enter your message: ")
-#     morse_code = string_to_morse(message)
-#     if morse_code == "":
-#         print("You've typed an invalid message")
-#         is_finished = False
-#     else:
-#         print(f"Morse code: {morse_code}")
+    
