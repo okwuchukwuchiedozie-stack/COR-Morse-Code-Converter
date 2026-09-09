@@ -67,13 +67,3 @@ COR-Morse-Code-Converter/
 The converter keeps a dictionary of Morse code values for supported characters. It changes input to uppercase, looks up each character, and combines the results into one Morse code string.
 
 Characters that are not in the dictionary are skipped.
-
-## Possible improvements
-
-A few natural directions for a future version:
-
-- Add spaces between individual Morse characters for easier reading
-- Convert Morse code back into text
-- Show clearer feedback when unsupported characters are entered
-- Add a simple desktop or web interface
-- Include tests for the converter function
